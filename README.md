@@ -30,7 +30,7 @@ If you have not done so already, please register [here.](https://registration.ru
 
 * 12 runners, 200ish total miles.  Everyone runs 3 legs totaling between 12.4
   and 21.8 miles.  We run through the night, so expect that 1 of your legs will
-  be during dawn to dusk hours.  You will have support from the van along the
+  be during dusk to dawn hours.  You will have support from the van along the
   route (see details below how it works), however, if you do not want to run
   alone at night, another runner can run with you and that "buddy" runner will be
   allowed to skip one of his/her legs.  We will start Friday morning (start
