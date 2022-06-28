@@ -2,6 +2,7 @@
 ## JHU "Cut Throats" Ragnar Team 
 
 ### Current Roster:
+If you have not done so already, please register [here:](https://registration.runragnar.com/index.html?fbclid=IwAR2iLFbY95YrN2FV7EzZ6hCL-aRXlKi2_iBHs0nfwZne1J2s5PWqTaOhWQQ#/team-builder/login).
 ```
     Ed Benson
     Salil Pradhan
@@ -111,6 +112,12 @@
   clothes into the ziplock and seal.  
 
 * More packing items forthcoming as we get closer 
+
+## Cost
+
+* Total will be about $500 per person, which includes lodging for
+  Thursday-Sunday nights.  $148.16 per person for the race, $245 per person for
+  the beach house, and then somewhere between $85-$100 for the van rental.  
 
 ## FAQ
 
