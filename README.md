@@ -2,7 +2,7 @@
 ## JHU "Cut Throats" Ragnar Team 
 
 ### Current Roster:
-If you have not done so already, please register [here:](https://registration.runragnar.com/index.html?fbclid=IwAR2iLFbY95YrN2FV7EzZ6hCL-aRXlKi2_iBHs0nfwZne1J2s5PWqTaOhWQQ#/team-builder/login).
+If you have not done so already, please register [here.](https://registration.runragnar.com/index.html?fbclid=IwAR2iLFbY95YrN2FV7EzZ6hCL-aRXlKi2_iBHs0nfwZne1J2s5PWqTaOhWQQ#/team-builder/login).
 ```
     Ed Benson
     Salil Pradhan
@@ -123,16 +123,13 @@ If you have not done so already, please register [here:](https://registration.ru
 
 1.  How do we sleep?  
 
-First I will say that sleep was a big worry for me when I did Ragnar the first
-time, but it turned out not to be a big deal.  Mike had the same experience.
-You should try to get quick naps in the van while we are traveling.  Bringing
-ear plugs will help with this.  During the extended breaks, i.e. when your van
-is "off", we will typically park somewhere to get some extended sleep.  This
-may mean lying out in a field on your sleeping bag.  I bring a hammock which
-can work well.  There is a member of our run club who offers her house during
-the nighttime van transition point.  Hopefully she will be able to do that for
-us because our run club doesn't seem to be running Ragnar this year.  We will
-be able to take showers and sleep in quiet on beds or couches. 
-
-
-
+    First I will say that sleep was a big worry for me when I did Ragnar the first
+    time, but it turned out not to be a big deal.  Mike had the same experience.
+    You should try to get quick naps in the van while we are traveling.  Bringing
+    ear plugs will help with this.  During the extended breaks, i.e. when your van
+    is "off", we will typically park somewhere to get some extended sleep.  This
+    may mean lying out in a field on your sleeping bag.  I bring a hammock which
+    can work well.  There is a member of our run club who offers her house during
+    the nighttime van transition point.  Hopefully she will be able to do that for
+    us because our run club doesn't seem to be running Ragnar this year.  We will
+    be able to take showers and sleep in quiet on beds or couches. 
