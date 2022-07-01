@@ -12,9 +12,9 @@ If you have not done so already, please register [here.](https://registration.ru
     Marc Vaillant
     Amy Waters
     Mike Winters
-    Adriana Blanco? Maybe
-    Lance Gable?
-    Rebecca Friedman?
+    Adriana Blanco
+    Lance Gable: likely yes
+    Rebecca Friedman: No
     Nolan Love: No
     Nick Yu: No
     Dan Battle: No
