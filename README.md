@@ -57,7 +57,8 @@ If you have not done so already, please register [here.](https://registration.ru
   on break and travels to the runner 6 to 7 transition point.  Then van 2 takes
   over, runners 7-12 run while van 1 is on break and travels to the next
   transition point.  You do this a total of 3 times.  When your van is on
-  break, you will have time to grab a meal and catch some sleep.
+  break, you will have time to grab a meal and catch some sleep, factoring in 
+  that it will take about an hour to drive to the next transition point. 
 
 * When a van is "on", they will drop their 1st runner off at the start of their
   leg, then drive to the next runners transition point.  They may stop at 1 or
