@@ -5,6 +5,8 @@
 If you have not done so already, please register [here.](https://registration.runragnar.com/index.html?fbclid=IwAR2iLFbY95YrN2FV7EzZ6hCL-aRXlKi2_iBHs0nfwZne1J2s5PWqTaOhWQQ#/team-builder/login).
 ```
     Ed Benson
+    Adriana Blanco
+    Lance Gable
     Salil Pradhan
     Juri Schauermann 
     Tim Schauermann
@@ -12,8 +14,6 @@ If you have not done so already, please register [here.](https://registration.ru
     Marc Vaillant
     Amy Waters
     Mike Winters
-    Adriana Blanco
-    Lance Gable: likely yes
     Rebecca Friedman: No
     Nolan Love: No
     Nick Yu: No
@@ -84,8 +84,8 @@ If you have not done so already, please register [here.](https://registration.ru
 
 * The two vans are 12-15 passenger vans and we will need multiple drivers for each
   van.  Since Mike and I have experience with Ragnar, I figure that we will
-  each take van captain of a van.  When we pick up the vans on Thursday, we'll get
-  1 or 2 others on the driving roster at Enterprise.  
+  each captain a van.  When we pick up the vans on Thursday, we'll get 1 or 2
+  others on the driving roster at Enterprise.  
 
 ## Packing Items
 
