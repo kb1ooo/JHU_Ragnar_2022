@@ -19,6 +19,9 @@ If you have not done so already, please register [here.](https://registration.ru
     Nick Yu: No
     Dan Battle: No
     Dennis Ommert: No
+    Paulina Perez: No
+    Simon Fraser: No
+    Randy Prager: No
 ```
 
 ### The Race
