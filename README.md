@@ -2,7 +2,7 @@
 ## JHU "Cut Throats" Ragnar Team 
 
 ### Current Roster:
-If you have not done so already, please register [here.](https://registration.runragnar.com/index.html?fbclid=IwAR2iLFbY95YrN2FV7EzZ6hCL-aRXlKi2_iBHs0nfwZne1J2s5PWqTaOhWQQ#/team-builder/login).
+If you have not done so already, please register [here](https://registration.runragnar.com/index.html?fbclid=IwAR2iLFbY95YrN2FV7EzZ6hCL-aRXlKi2_iBHs0nfwZne1J2s5PWqTaOhWQQ#/team-builder/login).
 ```
     Ed Benson
     Adriana Blanco
