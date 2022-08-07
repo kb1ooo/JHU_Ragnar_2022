@@ -14,6 +14,7 @@ If you have not done so already, please register [here](https://registration.run
     Marc Vaillant
     Amy Waters
     Mike Winters
+    Jeff Barber: No
     Rebecca Friedman: No
     Nolan Love: No
     Nick Yu: No
@@ -115,7 +116,40 @@ If you have not done so already, please register [here](https://registration.run
   ziplocks.  As soon as you are done with your leg, change, put the dirty
   clothes into the ziplock and seal.  
 
-* More packing items forthcoming as we get closer 
+* Suggested packing items.  Try to pack light if you can, this will be dictated somewhat by the weather.
+    ### Running Equipment
+    * Running shoes (suggest two pair)
+    * Cool weather running gear -- night legs may be cold
+    * Warm weather running gear
+    * Running socks (pair for each leg)
+    * Running hat
+    * Water carrier/ water bottle if you need it.  Keep in mind that the van can be available along the way to support and provide water/snacks, etc. 
+    * Watch
+    * Headlamp
+    * Reflective vests and red rear blinker
+    * Sunscreen
+    * Bug repellent
+    * Water
+    ### Non-running Equipment
+    * Two changes of dry clothing
+    * flip-flops or sandals
+    * socks
+    * warm socks
+    * light jacket, hoodie, sweats, hat and gloves/mittens (for hanging around, sleeping at night)
+    * sleeping bag or blanket
+    * large zip lock bags -- for sweaty clothes
+    * Money
+    * Food (non-perishables are best.  We can decide to stock each van together.  There will be enough food along the way for meals, so mostly snack items.  Don't stress out about being fueled, you don't want to suddenly change your diet because you think you need to fuel up.  Things like english muffins and peanut butter, granola bars, etc.)
+    * Cell phone
+    * Medications
+    * Body wipes (nice for wiping down since we can't shower.  We can probably get these per van)
+    * Tooth brush and tooth paste
+    * Deodorant
+    * Small towels
+    * Blister pats or athletic tape for blister repair
+    * First-aid kit (one per van)
+    * Toilet paper
+    * Power converter and chargers for cellphones and GPS
 
 ## Cost
 
