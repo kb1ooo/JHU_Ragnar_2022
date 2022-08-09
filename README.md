@@ -6,7 +6,6 @@ If you have not done so already, please register [here](https://registration.run
 ```
     Ed Benson
     Adriana Blanco
-    Lance Gable
     Salil Pradhan
     Juri Schauermann 
     Tim Schauermann
@@ -14,11 +13,16 @@ If you have not done so already, please register [here](https://registration.run
     Marc Vaillant
     Amy Waters
     Mike Winters
+    Lee Friedman: ?
+    John Vertefeuille: ?
+    Jack Chiang: ?
+    Chris Brewster: ?
     Jeff Barber: No
+    Dan Battle: No
+    Lance Gable: No
     Rebecca Friedman: No
     Nolan Love: No
     Nick Yu: No
-    Dan Battle: No
     Dennis Ommert: No
     Paulina Perez: No
     Simon Fraser: No
