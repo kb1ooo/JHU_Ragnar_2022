@@ -13,10 +13,10 @@ If you have not done so already, please register [here](https://registration.run
     Marc Vaillant
     Amy Waters
     Mike Winters
-    Lee Friedman: ?
+    Jack Chiang: Maybe 
     John Vertefeuille: ?
-    Jack Chiang: ?
     Chris Brewster: ?
+    Lee Friedman: No
     Jeff Barber: No
     Dan Battle: No
     Lance Gable: No
