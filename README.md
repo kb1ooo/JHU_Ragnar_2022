@@ -132,8 +132,8 @@ If you have not done so already, please register [here](https://registration.run
     * Running hat
     * Water carrier/ water bottle if you need it.  Keep in mind that the van can be available along the way to support and provide water/snacks, etc. 
     * Watch
-    * Headlamp + rear red blinker
-    * Reflective vests and red rear blinker
+    * 2 x (Headlamp + rear red blinker)
+    * Reflective vest
     * Sunscreen
     * Bug repellent
     * Water
