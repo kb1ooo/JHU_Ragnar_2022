@@ -9,13 +9,16 @@ If you have not done so already, please register [here](https://registration.run
     Salil Pradhan
     Juri Schauermann 
     Tim Schauermann
-    Jon Strasser
     Marc Vaillant
     Amy Waters
     Mike Winters
-    Jack Chiang: Maybe 
+    Jason Goulet
+    Mike Charkowski
+    Jeff Hammond: Maybe
+    Jon Strasser: Likely No
     John Vertefeuille: ?
     Chris Brewster: ?
+    Jack Chiang: No
     Lee Friedman: No
     Jeff Barber: No
     Dan Battle: No
@@ -98,7 +101,7 @@ If you have not done so already, please register [here](https://registration.run
 ## Packing Items
 
 * The main thing(s) that you may not have lying around at home are lights and
-  reflective vests.  Each person will need a front light and a rear red
+  reflective vests.  Each person will need **Two** front lights and **Two** rear red
   blinking light.  You will also need a reflective vest, because you cannot get
   out of the van during sundown hours (something like 7pm to 7am) without wearing
   one.  We do have some extra lights and vests, so if you don't want to
@@ -129,7 +132,7 @@ If you have not done so already, please register [here](https://registration.run
     * Running hat
     * Water carrier/ water bottle if you need it.  Keep in mind that the van can be available along the way to support and provide water/snacks, etc. 
     * Watch
-    * Headlamp
+    * Headlamp + rear red blinker
     * Reflective vests and red rear blinker
     * Sunscreen
     * Bug repellent
