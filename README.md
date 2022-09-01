@@ -2,7 +2,7 @@
 ## JHU "Cut Throats" Ragnar Team 
 
 ### Current Roster:
-If you have not done so already, please register [here](https://registration.runragnar.com/index.html?fbclid=IwAR2iLFbY95YrN2FV7EzZ6hCL-aRXlKi2_iBHs0nfwZne1J2s5PWqTaOhWQQ#/team-builder/login).
+If you have not done so already, please register [here.](https://registration.runragnar.com/index.html#/team-builder/SyG0kkaau/registration/HybpMyVYK/runner/info)
 ```
     Ed Benson
     Adriana Blanco
@@ -14,10 +14,13 @@ If you have not done so already, please register [here](https://registration.run
     Mike Winters
     Jason Goulet
     Mike Charkowski
-    Jeff Hammond: Maybe
-    Jon Strasser: Likely No
-    John Vertefeuille: ?
-    Chris Brewster: ?
+    Steve Ozols: Maybe
+    Scott Hatch: No
+    Jeff Hammond: No
+    Jon Strasser: No
+    Mark Cohen: ? 
+    John Vertefeuille: No response
+    Chris Brewster: No response
     Jack Chiang: No
     Lee Friedman: No
     Jeff Barber: No
