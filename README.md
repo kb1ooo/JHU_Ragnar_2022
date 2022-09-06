@@ -1,6 +1,12 @@
 
 ## JHU "Cut Throats" Ragnar Team 
 
+### Latest updates:
+
+9/6
+* We now have 11 on our roster with a strong maybe as a 12th 
+* Our official start time is 7:45am Friday
+
 ### Current Roster:
 If you have not done so already, please register [here.](https://registration.runragnar.com/index.html#/team-builder/SyG0kkaau/registration/HybpMyVYK/runner/info)
 ```
@@ -14,11 +20,12 @@ If you have not done so already, please register [here.](https://registration.ru
     Mike Winters
     Jason Goulet
     Mike Charkowski
+    Chris Meier 
     Steve Ozols: Maybe
     Scott Hatch: No
     Jeff Hammond: No
     Jon Strasser: No
-    Mark Cohen: ? 
+    Mark Cohen: Ghosted
     John Vertefeuille: No response
     Chris Brewster: No response
     Jack Chiang: No
