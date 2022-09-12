@@ -5,7 +5,7 @@
 
 
 9/11
-* It looks like we'll be going with 11 runners.  Me, Mike W, and Jason will each be taking an extra leg.
+* It looks like we'll be going with 11 runners.  Mike W, Jason, and I will each be taking an extra leg.
     * Runner 1: Ghost (Marc leg 1, Mike W leg 2, Jason + Marc leg 3) 
     * Runner 2: Adriana
     * Runner 3: Jason
@@ -30,23 +30,24 @@
 * If you haven't come across it yet, take a look at the "runner's packet"
   [here](https://quip.com/dUAHAaimgopS).  I've listed the important points
   below. 
-* Does everyone have 2 front and rear lights and reflective vest? 
+* Double checking on the light situation.  Everyone definitely needs a vest.  I
+  think we'll be covered on lights, but you probably want to have your own.  
 * **important** You will receive an email about online check-in and completing
   an online safety video on **Monday**.  You have to get this done (I think
-they give you 24hrs or something), otherwise you will have to come to the start
-of the race and watch the video before we start.  This would be especially bad
-for anyone in van 2.  
+          they give you 24hrs or something), otherwise you will have to come to the start
+  of the race and watch the video before we start.  This would be especially bad
+  for anyone in van 2.  
 * There is no support for legs 9 and 10.  That means that your van will **not**
-  be able to pull over during the race and cheer you on or give you water
-  during those legs.  If this is a problem 
+  be able to pull over during those legs to check on you, provide water, etc.
+If this is a problem for you please let me know.  
 * We will not be able to transition to van 2 if we arrive at the 1st transition
   point before 11:15.  AND, we if that happens, runner 7 won't be able to start
-  until 11:45.  It is highly like that that will happen because our average pace
+  until 11:45.  It is highly likely that that will happen because our average pace
   is probably faster than what we registered as.  It is probably best to
   sandbag so that we don't have to wait until 11:45.  
-* Van 1 can not arrive at the 2nd transition point (Kenneth Brett School)
+* Van 1 cannot arrive at the 2nd transition point (Kenneth Brett School)
   before 4:30pm.  In the past we've been able to park on the road nearby, but
-  they want you to go to white lake state park. Instead.   
+  they want you to go to white lake state park instead.   
 * I will need to get a reasonable average pace for your legs.  I'll be putting
   together a spreadsheet with expected arrival times, so that vans can get
   accurate estimates of arrival times.  We will update the spreadsheet in real
