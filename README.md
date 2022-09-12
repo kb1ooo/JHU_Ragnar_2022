@@ -3,6 +3,55 @@
 
 ### Latest updates:
 
+
+9/11
+* It looks like we'll be going with 11 runners.  Me, Mike W, and Jason will each be taking an extra leg.
+    * Runner 1: Ghost (Marc leg 1, Mike W leg 2, Jason + Marc leg 3) 
+    * Runner 2: Adriana
+    * Runner 3: Jason
+    * Runner 4: Juri
+    * Runner 5: Tim
+    * Runner 6: Marc
+    * Runner 7: Mike C
+    * Runner 8: Sal
+    * Runner 9: Chris
+    * Runner 10: Mike W
+    * Runner 11: Amy
+    * Runner 12: Ed
+* Address for houses are: 317 Ashland St. and 282 Portsmouth Ave. Seabrook NH.
+  I don't know yet which van will take which house.  We might want to mix it up
+  and not assign along van boundaries, since we will likely want to spend some
+  time with folks who aren't in our van.  The houses are only 3 blocks from one
+  another. 
+* Our official start time is 7:45am.  Van 1 should shoot to be there by 7am,
+  which means a leave time at 4:30am from Seabrook.  
+* Van 2 will need to be at the 1st transition point (Attitash Ski Area) by
+  11:15am, which means an 8:30am leave time from Seabrook. 
+* If you haven't come across it yet, take a look at the "runner's packet"
+  [here](https://quip.com/dUAHAaimgopS).  I've listed the important points
+  below. 
+* Does everyone have 2 front and rear lights and reflective vest? 
+* **important** You will receive an email about online check-in and completing
+  an online safety video on **Monday**.  You have to get this done (I think
+they give you 24hrs or something), otherwise you will have to come to the start
+of the race and watch the video before we start.  This would be especially bad
+for anyone in van 2.  
+* There is no support for legs 9 and 10.  That means that your van will **not**
+  be able to pull over during the race and cheer you on or give you water
+  during those legs.  If this is a problem 
+* We will not be able to transition to van 2 if we arrive at the 1st transition
+  point before 11:15.  AND, we if that happens, runner 7 won't be able to start
+  until 11:45.  It is highly like that that will happen because our average pace
+  is probably faster than what we registered as.  It is probably best to
+  sandbag so that we don't have to wait until 11:45.  
+* Van 1 can not arrive at the 2nd transition point (Kenneth Brett School)
+  before 4:30pm.  In the past we've been able to park on the road nearby, but
+  they want you to go to white lake state park. Instead.   
+* I will need to get a reasonable average pace for your legs.  I'll be putting
+  together a spreadsheet with expected arrival times, so that vans can get
+  accurate estimates of arrival times.  We will update the spreadsheet in real
+  time with actual arrival times. 
+
 9/6
 * We now have 11 on our roster with a strong maybe as a 12th 
 * Our official start time is 7:45am Friday
@@ -41,7 +90,6 @@ If you have not done so already, please register [here.](https://registration.ru
     Simon Fraser: No
     Randy Prager: No
 ```
-
 ### The Race
 
 * First off, this is going to be fun!  You will certainly have anxieties about
