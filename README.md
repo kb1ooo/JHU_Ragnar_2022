@@ -3,6 +3,18 @@
 
 ### Latest updates:
 
+9/13
+* Check-in is live.  Let me know if you didn't get an email
+* I forwarded the info on the houses.  
+
+9/12
+* I have the spreadsheet going [here.]()  Please update with your paces if you
+  need to or haven't given them to me yet.  Probably best to err on the side of
+  faster.  It would suck to get to the end of your leg and not have your van
+  there yet.    
+* I'm realizing that at least one of our cars will be parked at Enterprise, and
+  it's just me, Adriana, and Chris with cars.  So there should be room at the
+  houses if Mike and Jason want to come there instead. 
 
 9/11
 * It looks like we'll be going with 11 runners.  Mike W, Jason, and I will each be taking an extra leg.
@@ -30,8 +42,9 @@
 * If you haven't come across it yet, take a look at the "runner's packet"
   [here](https://quip.com/dUAHAaimgopS).  I've listed the important points
   below. 
-* Double checking on the light situation.  Everyone definitely needs a vest.  I
-  think we'll be covered on lights, but you probably want to have your own.  
+* Everyone definitely needs a vest.  It will be easiest if we have at least 1
+  set of lights per person.  Let me know if you don't have a set.  I should
+  have 3 sets.  
 * **important** You will receive an email about online check-in and completing
   an online safety video on **Monday**.  You have to get this done (I think
           they give you 24hrs or something), otherwise you will have to come to the start
@@ -41,10 +54,10 @@
   be able to pull over during those legs to check on you, provide water, etc.
 If this is a problem for you please let me know.  
 * We will not be able to transition to van 2 if we arrive at the 1st transition
-  point before 11:15.  AND, we if that happens, runner 7 won't be able to start
-  until 11:45.  It is highly likely that that will happen because our average pace
-  is probably faster than what we registered as.  It is probably best to
-  sandbag so that we don't have to wait until 11:45.  
+  point before 11:15.  AND, if that happens, runner 7 won't be able to start
+  until 11:45.  It may happen because our average pace is probably faster than
+  what we registered as.  I am runner 6 and will probably sandbag if I have to
+    so that we don't have to wait until 11:45.  
 * Van 1 cannot arrive at the 2nd transition point (Kenneth Brett School)
   before 4:30pm.  In the past we've been able to park on the road nearby, but
   they want you to go to white lake state park instead.   
